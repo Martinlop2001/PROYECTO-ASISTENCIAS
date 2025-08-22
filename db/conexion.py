@@ -17,7 +17,7 @@ CREATE TABLE IF NOT EXISTS profesores (
 )
 """)
 
-cursor.execute("""
+cursor.execute("""HOLAAAAAAAAAA
 CREATE TABLE IF NOT EXISTS alumnos (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     nombre TEXT,
